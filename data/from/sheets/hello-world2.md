@@ -2,7 +2,7 @@
 
 | Field | Value |
 | :--- | :--- |
-| **hello world** | hello world2 |
-| **txt** | I love google and github2 |
+| **slug** | hello world2 |
+| **txt** | I love google and github  |
 
-*Last updated automatically via Google Sheets on 2026-05-17T13:50:57.011Z*
+*Last updated automatically via Google Sheets on 2026-05-17T13:53:56.030Z*
